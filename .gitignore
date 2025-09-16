@@ -1,0 +1,37 @@
+# IDE and Editor files
+.vscode/
+*.swp
+*.swo
+*~
+
+# Operating System files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Arduino IDE
+*.hex
+*.elf
+*.map
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+
+# Build files
+build/
+*.o
+*.a
+
+# Images that might be temporary or screenshots
+# Uncomment the line below if you don't want to track these images
+# *.jpg
+# *.png
+
+# PDF files (uncomment if you don't want to track PDFs)
+# *.pdf
