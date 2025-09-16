@@ -328,29 +328,6 @@ Raw ECG → High-pass (0.5Hz) → Low-pass (40Hz) → Notch (50Hz) → Clean Sig
 
 ---
 
-## 🤝 Contributing
-
-We welcome contributions to improve this arrhythmia detection system! Here's how you can help:
-
-### 🐛 Bug Reports
-- Use the [Issues](https://github.com/Ayushbyte/Arrhythmia-Detection/issues) tab to report bugs
-- Include detailed description and steps to reproduce
-- Attach screenshots or code snippets if helpful
-
-### 💡 Feature Requests  
-- Suggest new features via [Issues](https://github.com/Ayushbyte/Arrhythmia-Detection/issues)
-- Describe the problem you're trying to solve
-- Explain how your suggestion would help
-
-### 🔧 Code Contributions
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
-
 ## 📄 License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
@@ -390,5 +367,6 @@ For questions, suggestions, or collaborations, please open an issue or reach out
 **Made with ❤️ for accessible healthcare technology**
 
 </div>
+
 
 
