@@ -16,13 +16,6 @@
 
 ---
 
-## 🎯 Project Overview
-
-**Authors:** [Suhana Bhardwaj](https://github.com/Ayushbyte) & Simran Bhatt  
-**Institution:** GB Pant DSEU Okhla - III Campus  
-**Supervisor:** Prof. Krishna Singh  
-**Date:** September 2025
-
 ### 🚨 The Problem
 Cardiovascular diseases account for **17.9 million deaths annually** worldwide, with sudden cardiac death claiming lives every **36 seconds**. Traditional ECG monitoring systems are expensive, complex, and confined to clinical settings, limiting preventive screening accessibility.
 
@@ -414,3 +407,4 @@ For questions, suggestions, or collaborations, please open an issue or reach out
 **Made with ❤️ for accessible healthcare technology**
 
 </div>
+
