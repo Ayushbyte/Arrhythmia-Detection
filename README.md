@@ -367,14 +367,6 @@ MIT License - Free for personal, educational, and commercial use
 
 ---
 
-## 🙏 Acknowledgments
-
-- **Prof. Krishna Singh** - Project supervision and guidance
-- **GB Pant DSEU Okhla-III** - Academic support and resources
-- **Arduino Community** - Open-source libraries and documentation
-- **Pan & Tompkins** - QRS detection algorithm research
-- **Analog Devices** - AD8232 sensor development
-
 ### 📚 Key References
 
 - Pan, J., & Tompkins, W. J. (1985). *A real-time QRS detection algorithm*
@@ -382,15 +374,6 @@ MIT License - Free for personal, educational, and commercial use
 - World Health Organization (2021). *Cardiovascular diseases (CVDs) Fact Sheet*
 
 ---
-
-## 📞 Contact & Support
-
-**👨‍💻 Authors:**
-- **Suhana Bhardwaj** - [@Ayushbyte](https://github.com/Ayushbyte)
-- **Simran Bhatt** - Collaborator
-
-**🏫 Institution:**  
-GB Pant DSEU Okhla - III Campus, New Delhi
 
 **📧 Contact:**  
 For questions, suggestions, or collaborations, please open an issue or reach out via GitHub.
@@ -407,4 +390,5 @@ For questions, suggestions, or collaborations, please open an issue or reach out
 **Made with ❤️ for accessible healthcare technology**
 
 </div>
+
 
