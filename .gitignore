@@ -40,5 +40,9 @@ WhatsApp*.png
 # *.jpg
 # *.png
 
-# PDF files (uncomment if you don't want to track PDFs)
-# *.pdf
+# PDF files and documentation
+*.pdf
+*.tex
+*.aux
+*.log
+*.synctex.gz
