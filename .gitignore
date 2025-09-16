@@ -29,7 +29,14 @@ build/
 *.a
 
 # Images that might be temporary or screenshots
-# Uncomment the line below if you don't want to track these images
+# WhatsApp images and screenshots
+WhatsApp*.jpg
+WhatsApp*.png
+*screenshot*
+*Screenshot*
+
+# Other temporary images
+# Uncomment the lines below if you don't want to track any images
 # *.jpg
 # *.png
 
